@@ -10,4 +10,8 @@ package com.mycompany.principal;
  */
 public class nivel1 {
     
+    
+    public void numeros ()
+    {
+    }
 }
