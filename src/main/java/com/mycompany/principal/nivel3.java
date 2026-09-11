@@ -10,4 +10,24 @@ package com.mycompany.principal;
  */
 public class nivel3 {
     
+    
+    
+     public void nivel9()
+    {
+    
+    }
+    
+    
+    
+    
+     public void nivel10()
+    {
+    
+    }
+    
+    
+    
+    
+    
+    
 }

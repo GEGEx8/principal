@@ -12,6 +12,6 @@ public class Principal {
 
     public static void main(String[] args) {
         Menu N =new Menu ();
-        N.MenuN();
+        N.MenuNiveles();
     }
 }

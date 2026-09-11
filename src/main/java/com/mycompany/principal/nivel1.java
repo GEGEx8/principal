@@ -28,4 +28,14 @@ public class nivel1 {
         }//ciclo for
     }
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 }//fin clase

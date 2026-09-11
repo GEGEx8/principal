@@ -19,11 +19,8 @@ public class Menu {
     nivel4 N4 = new nivel4();
     nivel5 N5 = new nivel5();
 
-   
-    public void MenuN() {
-        
-        
-        
+    public void MenuNiveles() {
+
         int selecion = Integer.parseInt(JOptionPane.showInputDialog("""
                                                                 digite el numero del nivel que desea ingresar
                                                                  nivel: 1
@@ -33,11 +30,6 @@ public class Menu {
                                                                  nivel: 5"""));
 //los switch fue para ver que nivel quiere la persona una vez elige uno se mete al otro switch para ver que numero quiere hacer es como elijo nivel1 entro al submenu opcion y elijo que nivel hacer si el 1 2 3 4 y asi con el resto de niveles
 
-        
-        
-        
-        
-        
         switch (selecion) {
             case 1:
 
@@ -73,27 +65,27 @@ public class Menu {
 
             case 2:
 
-               opcion = Integer.parseInt(JOptionPane.showInputDialog("""
+                opcion = Integer.parseInt(JOptionPane.showInputDialog("""
                                                                           digite que subnivel quiere
-                                                                           nivel 1
-                                                                           nivel 2
-                                                                           nivel 3
-                                                                           nivel 4"""));
+                                                                           nivel 5
+                                                                           nivel 6
+                                                                           nivel 7
+                                                                           nivel 8"""));
 
                 switch (opcion) {
-                    case 1:
+                    case 5:
+                           N2.nivel5();
+                        break;
+
+                    case 6:
+                            N2.nivel6();
+                        break;
+
+                    case 7:
 
                         break;
 
-                    case 2:
-
-                        break;
-
-                    case 3:
-
-                        break;
-
-                    case 4:
+                    case 8:
 
                         break;
 
@@ -107,25 +99,25 @@ public class Menu {
 
                 opcion = Integer.parseInt(JOptionPane.showInputDialog("""
                                                                           digite que subnivel quiere
-                                                                           nivel 1
-                                                                           nivel 2
-                                                                           nivel 3
-                                                                           nivel 4"""));
+                                                                           nivel 9
+                                                                           nivel 10
+                                                                           nivel 11
+                                                                           nivel 12"""));
 
                 switch (opcion) {
-                    case 1:
+                    case 9:
 
                         break;
 
-                    case 2:
+                    case 10:
 
                         break;
 
-                    case 3:
+                    case 11:
 
                         break;
 
-                    case 4:
+                    case 12:
 
                         break;
 
@@ -139,24 +131,24 @@ public class Menu {
 
                 opcion = Integer.parseInt(JOptionPane.showInputDialog("""
                                                                           digite que subnivel quiere
-                                                                           nivel 1
-                                                                           nivel 2
-                                                                           nivel 3
-                                                                           nivel 4"""));
+                                                                           nivel 13
+                                                                           nivel 14
+                                                                           nivel 15
+                                                                           nivel 16"""));
                 switch (opcion) {
-                    case 1:
+                    case 13:
 
                         break;
 
-                    case 2:
+                    case 14:
 
                         break;
 
-                    case 3:
+                    case 15:
 
                         break;
 
-                    case 4:
+                    case 16:
 
                         break;
 
@@ -170,24 +162,24 @@ public class Menu {
 
                 opcion = Integer.parseInt(JOptionPane.showInputDialog("""
                                                                           digite que subnivel quiere
-                                                                           nivel 1
-                                                                           nivel 2
-                                                                           nivel 3
-                                                                           nivel 4"""));
+                                                                           nivel 17
+                                                                           nivel 18
+                                                                           nivel 19
+                                                                           nivel 420"""));
                 switch (opcion) {
-                    case 1:
+                    case 17:
 
                         break;
 
-                    case 2:
+                    case 18:
 
                         break;
 
-                    case 3:
+                    case 19:
 
                         break;
 
-                    case 4:
+                    case 20:
 
                         break;
 
