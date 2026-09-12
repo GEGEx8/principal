@@ -1,0 +1,33 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.mycompany.principal;
+
+/**
+ *
+ * @author gomez
+ */
+public class nivel3 {
+    
+    
+    
+     public void nivel9()
+    {
+    
+    }
+    
+    
+    
+    
+     public void nivel10()
+    {
+    
+    }
+    
+    
+    
+    
+    
+    
+}
