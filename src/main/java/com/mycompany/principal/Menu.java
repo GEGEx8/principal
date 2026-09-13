@@ -106,11 +106,11 @@ public class Menu {
 
                 switch (opcion) {
                     case 9:
-
+                            N3.nivel9();
                         break;
 
                     case 10:
-
+                            N3.nivel10();
                         break;
 
                     case 11:
@@ -137,11 +137,11 @@ public class Menu {
                                                                            nivel 16"""));
                 switch (opcion) {
                     case 13:
-
+                        N4.nivel13();
                         break;
 
                     case 14:
-
+                          N4.nivel14();
                         break;
 
                     case 15:
@@ -165,14 +165,14 @@ public class Menu {
                                                                            nivel 17
                                                                            nivel 18
                                                                            nivel 19
-                                                                           nivel 420"""));
+                                                                           nivel 20"""));
                 switch (opcion) {
                     case 17:
-
+                            N5.nivel17();
                         break;
 
                     case 18:
-
+                        N5.nivel18();
                         break;
 
                     case 19:
